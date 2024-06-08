@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysAndLists", "ArraysAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndLists2", "ArraysAndLists2\ArraysAndLists2.csproj", "{9099732E-3C22-4DF6-A881-FA2F075E329C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndLists3", "ArraysAndLists3\ArraysAndLists3.csproj", "{B1D45735-0622-44FA-ACB9-B84B523F90A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9099732E-3C22-4DF6-A881-FA2F075E329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9099732E-3C22-4DF6-A881-FA2F075E329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9099732E-3C22-4DF6-A881-FA2F075E329C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D45735-0622-44FA-ACB9-B84B523F90A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D45735-0622-44FA-ACB9-B84B523F90A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D45735-0622-44FA-ACB9-B84B523F90A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D45735-0622-44FA-ACB9-B84B523F90A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
